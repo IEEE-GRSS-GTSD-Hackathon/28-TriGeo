@@ -13,4 +13,4 @@ AHP Technique for Weighted Overlay: The Analytic Hierarchy Process (AHP) techniq
 Classified land suitability map: Based on the composite scores generated through the weighted overlay analysis, the study area is classified into different classes of suitability for solar farms. These classes can range from highly suitable to not suitable for solar farms.
 
 
-Data Link : 
+Data Link : https://drive.google.com/drive/folders/1vqQVTI9Ro1J-EvhvfToHEoIDzyPz0tvQ?usp=share_link
