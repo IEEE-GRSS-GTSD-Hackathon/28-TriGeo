@@ -11,3 +11,6 @@ Weighted overlay: A weighted overlay analysis is performed to combine the classi
 AHP Technique for Weighted Overlay: The Analytic Hierarchy Process (AHP) technique is used to assign weights to the subcriteria. This technique involves pairwise comparisons of the subcriteria to determine their relative importance.
 
 Classified land suitability map: Based on the composite scores generated through the weighted overlay analysis, the study area is classified into different classes of suitability for solar farms. These classes can range from highly suitable to not suitable for solar farms.
+
+
+Data Link : 
